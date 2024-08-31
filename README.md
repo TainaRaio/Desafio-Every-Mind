@@ -80,5 +80,4 @@ $ http DELETE :8080/produtos/1
 ## Autora
 
 Tainã Raio 
-
-https://www.linkedin.com/in/tainaraio/
+https://www.linkedin.com/in/tain%C3%A3-raio/
